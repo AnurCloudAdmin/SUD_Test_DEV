@@ -1,0 +1,15 @@
+[
+    {   
+        "value_eng": "Male",
+        "value_hin": "नर"
+    },
+    {
+        "value_eng": "Female",
+        "value_hin": "मादा"
+    },
+    {
+        "value_eng": "Others",
+        "value_hin": "\nदूसरों"
+    }
+    
+]
